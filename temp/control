@@ -1,11 +1,10 @@
-Package: xyz.royalapps.jellyfish
+Package: com.esquilli.scorpion
 Section: Tweaks
-Installed-Size: 376
-Maintainer: Justin Proulx
+Installed-Size: 2060
+Maintainer: Esquilli
 Architecture: iphoneos-arm
-Version: 1.5.1
-Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
-Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
-Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
-Name: Jellyfish
-Author: Justin Proulx and Ayden Panhuyzen
+Version: 1.4.2
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist
+Description: Intrusive call interface? Say no more.
+Name: Scorpion
+Author: Esquilli
