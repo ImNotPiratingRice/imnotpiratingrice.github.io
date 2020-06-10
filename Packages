@@ -76,22 +76,3 @@ SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
 SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
 SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
 
-Package: com.xcxiao.simplels2
-Name: SimpleLS2
-Version: 1.3.1-6
-Section: Tweaks
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Installed-Size: 2524
-Author: XCXiao
-Maintainer: XCXiao
-Description: SimpleLS
-Filename: debs/5e7189ee682928001a2be6ad.deb
-Depiction: https://imnotsatan.github.io/depictions/com.xcxiao.simplels2.html
-Icon: https://imnotsatan.github.io/icons/com.xcxiao.simplels2.png
-Size: 850896
-MD5sum: 55020fdf3b9dc5c4cbd3b3867ff1f57c
-SHA1: 0eaf3591390de8e7b6408cf152a5657631f9631f
-SHA256: c2d9851832cd7ed3a8a62e5364eb8fd43e7613009e2a016bf272beae2b9ba221
-SHA521: be88d5fdd1c94b88aa04f8462c7d29d3d457f23b57417eaf22622402480b6327ef9d99d1695c1f1885a24f4945a83340c1eda9577cccced3cff10ef9a239b70e
-

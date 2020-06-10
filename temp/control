@@ -1,10 +1,11 @@
-Package: com.xcxiao.simplels2
-Name: SimpleLS2
-Version: 1.3.1-6
+Package: xyz.royalapps.jellyfish
 Section: Tweaks
+Installed-Size: 376
+Maintainer: Justin Proulx
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Installed-Size: 2524
-Author: XCXiao
-Maintainer: XCXiao
-Description: SimpleLS
+Version: 1.5.1
+Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Name: Jellyfish
+Author: Justin Proulx and Ayden Panhuyzen
