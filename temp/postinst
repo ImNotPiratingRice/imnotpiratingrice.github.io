@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "[SimpleLS2]: Unloading Appconduitd..."
+launchctl unload /System/Library/NanoLaunchDaemons/com.apple.appconduitd.plist
+echo "[SimpleLS2]: Loading Appconduitd..."
+launchctl load /System/Library/NanoLaunchDaemons/com.apple.appconduitd.plist
+echo "[SimpleLS2]: Loaded Appconduitd..."
