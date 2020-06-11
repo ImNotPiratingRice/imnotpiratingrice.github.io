@@ -176,3 +176,23 @@ SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
 SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
 SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
 
+Package: me.gmoran.eclipse13
+Section: Tweaks
+Installed-Size: 3368
+Maintainer: Guillermo Morán (fr0st)
+Architecture: iphoneos-arm
+Version: 7.1
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker
+Description: Customize your Dark Mode Experience
+Name: Eclipse for iOS 13
+Author: Guillermo Morán (fr0st)
+Depiction: http://gmoran.me/artemis/depictions/eclipse_13.html
+Filename: debs/me.gmoran.eclipse13_7.1_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/me.gmoran.eclipse13.html
+Icon: https://imnotpiratingrice.github.io/icons/me.gmoran.eclipse13.png
+Size: 1727580
+MD5sum: c49afc5d05f585ada0668b217f7c6719
+SHA1: 688bb2fc723260e863043295d8c8c0b99a9a3edf
+SHA256: 583908a974dc0912b3cd51a158434acab0a852ba39d7e48a345fc550c7a443e9
+SHA521: 8211041ef88ef6b97ab23557b0578a16d9814ebebd577acb081de487060e2b28f3f1a0b379aafc6179298b245983d3d330b7df0ea79197eeba7a2aebe8f58f8f
+

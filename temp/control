@@ -1,11 +1,11 @@
-Package: xyz.royalapps.jellyfish
+Package: me.gmoran.eclipse13
 Section: Tweaks
-Installed-Size: 376
-Maintainer: Justin Proulx
+Installed-Size: 3368
+Maintainer: Guillermo Morán (fr0st)
 Architecture: iphoneos-arm
-Version: 1.5.1
-Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
-Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
-Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
-Name: Jellyfish
-Author: Justin Proulx and Ayden Panhuyzen
+Version: 7.1
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 13.0), com.creaturesurvive.libcscolorpicker
+Description: Customize your Dark Mode Experience
+Name: Eclipse for iOS 13
+Author: Guillermo Morán (fr0st)
+Depiction: http://gmoran.me/artemis/depictions/eclipse_13.html
