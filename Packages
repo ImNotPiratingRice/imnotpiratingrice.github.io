@@ -76,3 +76,45 @@ SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
 SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
 SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
 
+Package: com.peterdev.grupi
+Section: Tweaks
+Installed-Size: 560
+Maintainer: Soongyu Kwon
+Architecture: iphoneos-arm
+Version: 2.0
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Description: Grouped Notifications for iOS 11 ~ iOS 13
+Name: Grupi
+Author: Soongyu Kwon & Timeloop
+Filename: debs/com.peterdev.grupi_2.0_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.peterdev.grupi.html
+Icon: https://imnotpiratingrice.github.io/icons/com.peterdev.grupi.png
+Size: 185212
+MD5sum: db748183dd4e2affe084e6d468f16b14
+SHA1: 3c071b21d89e05a7637b312c1201ed309b8b20ea
+SHA256: 17c27fbd9d1907cfe169973e96835661a8294fc103d015f2a9ea682b6859eb2e
+SHA521: 944d96dae4e306759b2d37bf6e53b415d03eb1c31cfcce330cd1444f3507b5a48fe565a1989a2e96d53e49c05df22a5b7d2001f3c2a30d3a4cef36531fef43d2
+
+Package: com.hackyouriphone.grupi
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Version: 2.0
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Description: Grouped Notifications for iOS 11 ~ iOS 13
+Name: Grupi
+Author: Soongyu Kwon & Timeloop <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=grupi
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=grupi
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=grupi
+Filename: debs/com.hackyouriphone.grupi_2.0_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.hackyouriphone.grupi.html
+Icon: https://imnotpiratingrice.github.io/icons/com.hackyouriphone.grupi.png
+Size: 185290
+MD5sum: d6d829283b316fbe3579548066aaa7b2
+SHA1: ebea9d58c8646c246e9a9e858b686ca9e6d00dfc
+SHA256: 26a331ce4aca2c54a0d400f01849d9e050f8e1cfb6e48871161cbc423ebea9cf
+SHA521: 3eaac3026a0a8c7adff724d955faed2f64821c647bfd830eea9264908bb8c25c426a0861f05e805efdbadc1eee12ab795c030ce6b9c210958af4da1536fa8dca
+
