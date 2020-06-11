@@ -1,11 +1,11 @@
-Package: com.peterdev.grupi
+Package: xyz.royalapps.jellyfish
 Section: Tweaks
-Installed-Size: 560
-Maintainer: Soongyu Kwon
+Installed-Size: 376
+Maintainer: Justin Proulx
 Architecture: iphoneos-arm
-Version: 2.0
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Description: Grouped Notifications for iOS 11 ~ iOS 13
-Name: Grupi
-Author: Soongyu Kwon & Timeloop
+Version: 1.5.1
+Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Name: Jellyfish
+Author: Justin Proulx and Ayden Panhuyzen

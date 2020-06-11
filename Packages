@@ -1,3 +1,41 @@
+Package: com.esquilli.scorpion
+Section: Tweaks
+Installed-Size: 2060
+Maintainer: Esquilli
+Architecture: iphoneos-arm
+Version: 1.4.2
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11), firmware (>= 13.0), ws.hbang.alderis, com.spark.libsparkapplist
+Description: Intrusive call interface? Say no more.
+Name: Scorpion
+Author: Esquilli
+Filename: debs/com.esquilli.scorpion_1.4.2_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.esquilli.scorpion.html
+Icon: https://imnotpiratingrice.github.io/icons/com.esquilli.scorpion.png
+Size: 1048096
+MD5sum: 7956d72e6a55298ddb35ac7d65124603
+SHA1: a009d8838e4fbb4e0f90c8243c1ed4d35564ae1e
+SHA256: e4e9825c176ab7664fa88caba46e7b2b2ed15f6c2d06a767c6a87661f4864487
+SHA521: 429c2ce45d109a3320cc05995eeae6ac576381b03b68eb52eb128f8974e0f53f516d6890aeed0187b64661f4492f44b9bf05545bcc83dbe163617ab937bb692d
+
+Package: com.laughingquoll.maple2
+Section: Tweaks
+Installed-Size: 42288
+Maintainer: LaughingQuoll
+Architecture: iphoneos-arm
+Version: 1.3.1
+Depends: mobilesubstrate, com.laughingquoll.prefixui, org.thebigboss.libcolorpicker, net.limneos.libbulletin
+Description: A pretty sweet MobileSubstrate tweak.
+Name: Maple 2
+Author: LaughingQuoll
+Filename: debs/com.laughingquoll.maple2_1.3.1_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.laughingquoll.maple2.html
+Icon: https://imnotpiratingrice.github.io/icons/com.laughingquoll.maple2.png
+Size: 40445284
+MD5sum: 510506f761fecf7a3152cd93236b8e15
+SHA1: 667cd8b940af86c61abaeace89752f00acb54f6a
+SHA256: 10a79b00b6156841456ff62137857c5d03b5ab4285bc2b40e40a312205c54e5c
+SHA521: 1280153062db30ca16e8e1e46b3228900e68eed1ab3b2a9dc595bf89e6c2bafca3dd3d6480b875d6442234a0c413cfd86d2ad7b18dfa541d2995f7fd01111eff
+
 Package: com.peterdev.grupi
 Section: Tweaks
 Installed-Size: 560
@@ -17,4 +55,44 @@ MD5sum: db748183dd4e2affe084e6d468f16b14
 SHA1: 3c071b21d89e05a7637b312c1201ed309b8b20ea
 SHA256: 17c27fbd9d1907cfe169973e96835661a8294fc103d015f2a9ea682b6859eb2e
 SHA521: 944d96dae4e306759b2d37bf6e53b415d03eb1c31cfcce330cd1444f3507b5a48fe565a1989a2e96d53e49c05df22a5b7d2001f3c2a30d3a4cef36531fef43d2
+
+Package: com.phoenix-dev.ares
+Section: Tweaks
+Installed-Size: 1176
+Maintainer: Phoenix Dev <phnxdev07@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate, firmware (>= 13.0)
+Description: Siri - the way it should be!
+Name: Ares
+Author: Phoenix Dev <phnxdev07@gmail.com>
+Icon: https://phnx-dev.github.io/repo/icons/ares.png
+Filename: debs/com.phoenix-dev.ares_1.0_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.phoenix-dev.ares.html
+Icon: https://imnotpiratingrice.github.io/icons/com.phoenix-dev.ares.png
+Size: 671658
+MD5sum: 38c85d55aaa079129ed7b2b2280efae2
+SHA1: 210e1caeccbdcd1a719206a38abd7cac411eb5ea
+SHA256: 054a503fa8e01679b13c202bfd2c8db74bce55ee3a83ea7d70918f749d283aa0
+SHA521: bf0f612beeee29670b62c9418b485dac3a7a78fb67eb1864f0ad0f5b651ab894248ef93738c28bc9f1a51cce6ec94992ce281603b519dc09b5035718a7985634
+
+Package: xyz.royalapps.jellyfish
+Section: Tweaks
+Installed-Size: 376
+Maintainer: Justin Proulx
+Architecture: iphoneos-arm
+Version: 1.5.1
+Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Name: Jellyfish
+Author: Justin Proulx and Ayden Panhuyzen
+Filename: debs/xyz.royalapps.jellyfish_1.5.1_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/xyz.royalapps.jellyfish.html
+Icon: https://imnotpiratingrice.github.io/icons/xyz.royalapps.jellyfish.png
+Size: 66700
+MD5sum: edb53df9e98f334c2fc943c54edcb803
+SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
+SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
+SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
 
