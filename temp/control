@@ -1,10 +1,13 @@
-Package: com.laughingquoll.prysm
+Package: com.twickd.dylan-west.modernsettings
 Section: Tweaks
-Installed-Size: 2972
-Maintainer: LaughingQuoll
+Installed-Size: 1916
+Maintainer: Dylan West <iosthemem0d@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.7.5
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Description: Your control center, reimagined.
-Name: Prysm
-Author: LaughingQuoll
+Version: 1.0
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), ws.hbang.alderis, com.muirey03.libimagepicker
+Description: Bring widgets and canvas to your settings.
+Name: ModernSettings
+Author: Dylan West <iosthemem0d@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.modernsettings
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.modernsettings/native
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.0, compatible_max::ios13.5
