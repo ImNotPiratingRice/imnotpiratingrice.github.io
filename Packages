@@ -1,3 +1,22 @@
+Package: com.bengiannis.complications
+Section: Tweaks
+Installed-Size: 2868
+Maintainer: Ben Giannis
+Architecture: iphoneos-arm
+Version: 3.3.1
+Depends: mobilesubstrate
+Description: watchOS widgets on your lock screen
+Name: Complications
+Author: Ben Giannis
+Filename: debs/com.bengiannis.complications_3.3.1_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.bengiannis.complications.html
+Icon: https://imnotpiratingrice.github.io/icons/com.bengiannis.complications.png
+Size: 812044
+MD5sum: 3b5c810dc283eaf4e456899fcf5614ca
+SHA1: e767b75455f1a00630900ecb27ce73ad9c7292af
+SHA256: 1da0eeb41aa75fdec094b32112beebee1f68b4b4bf5e1577e64079f76608d3a8
+SHA521: 42f613eb2d05424207cc47df4db0d4782eaf15c7fbd063dafc1c9ebd69ec1714bb207987e0f4bbb7df591a2ae594d04cc09619b302c01ddc2d52404258f6ecce
+
 Package: com.esquilli.scorpion
 Section: Tweaks
 Installed-Size: 2060
@@ -95,4 +114,23 @@ MD5sum: edb53df9e98f334c2fc943c54edcb803
 SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
 SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
 SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
+
+Package: com.laughingquoll.prysm
+Section: Tweaks
+Installed-Size: 2972
+Maintainer: LaughingQuoll
+Architecture: iphoneos-arm
+Version: 1.7.5
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Description: Your control center, reimagined.
+Name: Prysm
+Author: LaughingQuoll
+Filename: debs/com.laughingquoll.prysm_1.7.5_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/com.laughingquoll.prysm.html
+Icon: https://imnotpiratingrice.github.io/icons/com.laughingquoll.prysm.png
+Size: 1016446
+MD5sum: bf6e06d709c909d0487a921170aaf676
+SHA1: bef1401d6bdfb3098dc2c9cea652fba9bbe480cd
+SHA256: 6128a93fac198ab15e8b82a933db7bf2a10fb155085c2248e8c515bab0a1e95c
+SHA521: d3e144d97a2a419152a67d0a09fa42b8a756dbcb3a5586e70f9aaaafffb7781a79d80803cc2ee73071980ef1c03073023f4f31a255e8f64eef4a243092311e53
 
