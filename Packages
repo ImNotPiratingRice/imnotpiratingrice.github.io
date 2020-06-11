@@ -156,26 +156,6 @@ SHA1: 497565ebd80e8cd557dfbf519f5040fc0fb7a9ad
 SHA256: e47a0e6fdf6581b71d7fb48a71e76dbe7fe5e952035abc4e73152290b871ce70
 SHA521: a62940e23369243ef0f90ec7ab6e33d029623dc866d53ca4a4e19d91735d03ea983ad3dc268378ab249cbc2c1fb14c91b9ffda06d8da25c0d595fa78e48b6591
 
-Package: xyz.royalapps.jellyfish
-Section: Tweaks
-Installed-Size: 376
-Maintainer: Justin Proulx
-Architecture: iphoneos-arm
-Version: 1.5.1
-Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
-Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
-Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
-Name: Jellyfish
-Author: Justin Proulx and Ayden Panhuyzen
-Filename: debs/xyz.royalapps.jellyfish_1.5.1_iphoneos-arm.deb
-Depiction: https://imnotpiratingrice.github.io/depictions/xyz.royalapps.jellyfish.html
-Icon: https://imnotpiratingrice.github.io/icons/xyz.royalapps.jellyfish.png
-Size: 66700
-MD5sum: edb53df9e98f334c2fc943c54edcb803
-SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
-SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
-SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
-
 Package: me.gmoran.eclipse13
 Section: Tweaks
 Installed-Size: 3368
@@ -195,4 +175,24 @@ MD5sum: c49afc5d05f585ada0668b217f7c6719
 SHA1: 688bb2fc723260e863043295d8c8c0b99a9a3edf
 SHA256: 583908a974dc0912b3cd51a158434acab0a852ba39d7e48a345fc550c7a443e9
 SHA521: 8211041ef88ef6b97ab23557b0578a16d9814ebebd577acb081de487060e2b28f3f1a0b379aafc6179298b245983d3d330b7df0ea79197eeba7a2aebe8f58f8f
+
+Package: xyz.royalapps.jellyfish
+Section: Tweaks
+Installed-Size: 376
+Maintainer: Justin Proulx
+Architecture: iphoneos-arm
+Version: 1.5.1
+Depends: mobilesubstrate, co.dynastic.ios.lib.flora, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro, com.adriandev.jellyfishcustom, com.bengiannis.manta, hi.my.name.is.ubik.kalm
+Description: Natural, Simple, Beautiful: Redesign your Lock screen with Jellyfish.
+Name: Jellyfish
+Author: Justin Proulx and Ayden Panhuyzen
+Filename: debs/xyz.royalapps.jellyfish_1.5.1_iphoneos-arm.deb
+Depiction: https://imnotpiratingrice.github.io/depictions/xyz.royalapps.jellyfish.html
+Icon: https://imnotpiratingrice.github.io/icons/xyz.royalapps.jellyfish.png
+Size: 66700
+MD5sum: edb53df9e98f334c2fc943c54edcb803
+SHA1: eb6ece7e6f61a91797d57d50527bf782cbd639d7
+SHA256: 2ecf811424cb3625fcb703404b508729214af493bd11fb5b7c2d6a8807d3c029
+SHA521: acfe73b5a2a11f9564721d1c5fa4ec7f62eeaef091ed844bf64ec3a64836fd852666aadf8bc16f934a93f6c3e316cab8cd1e6f04cfe3e34a4ab58e027399e535
 
